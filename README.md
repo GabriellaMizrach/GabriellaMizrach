@@ -1,8 +1,8 @@
 # 👋 Olá! Eu sou Gabriella Mizrach!
 
 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-🔐 Apaixonado por Segurança da Informação, programação em Python e C++  
-🚀 Em busca de uma oportunidade como estagiário ou desenvolvedor júnior em automação ou backend  
+🔐 Apaixonada por Segurança da Informação, programação em Python e C++  
+🚀 Em busca de uma oportunidade como estagiária ou desenvolvedora júnior em automação ou backend  
 
 ## ⚙️ Tecnologias que estou estudando
 - Python (scripts, automação, fundamentos de segurança)
