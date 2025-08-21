@@ -8,4 +8,4 @@
 - Python (scripts, automação, fundamentos de segurança)
 - C++ (estruturas de dados, OOP)
 - Redes de Computadores (modelo OSI, TCP/IP, configuração básica)
-- Cibersegurança (OWASP, análise de vulnerabilidades, ferramentas básicas)
+
